@@ -3042,18 +3042,5 @@
     "category": "ps",
     "genre": "экшн",
     "isChild": false
-  },
-  {
-    "id": 608,
-    "title": "Mass Effect Legendary Edition",
-    "description": "Один человек — это все, что стоит между человечеством и величайшей угрозой всему живому. Вспомните легенду: капитан Шепард возвращается в новом издании знаменитой трилогии Mass Effect — Mass Effect издание Legendary. Содержит основной одиночный контент и более 40 дополнений из Mass Effect, Mass Effect 2 и Mass Effect 3, а также бонусное оружие, броню и наборы. Весь контент оптимизирован под разрешение 4K Ultra HD.",
-    "thumbnail": "images/me_legendary/thumbnail.jpg",
-    "image1": "images/me_legendary/1.jpg",
-    "image2": "images/me_legendary/2.jpg",
-    "image3": "images/me_legendary/3.jpg",
-    "video": "https://www.youtube.com/embed/n8i53TtQ6IQ",
-    "category": "ps",
-    "genre": "экшн",
-    "isChild": false
   }]
 }
