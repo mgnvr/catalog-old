@@ -1418,19 +1418,6 @@
     "isChild": false
   },
   {
-    "id": 111,
-    "title": "Ultimate Fishing Simulator VR",
-    "description": "Британский институт археологии, Лондон, 1908 год: Исчезновение уважаемого египтолога побуждает полицию к расследованию неизвестного. Исследуйте загадочные места, фантастические гаджеты и откройте для себя потустороннее, которое стирает грань между реальностью и иллюзией.",
-    "thumbnail": "images/fishing_simulator/thumbnail.jpg",
-    "image1": "images/fishing_simulator/1.jpg",
-    "image2": "images/fishing_simulator/2.jpg",
-    "image3": "images/fishing_simulator/3.jpg",
-    "video": "https://www.youtube.com/embed/x2vJeNyxYrU",
-    "category": "htc",
-    "genre": "симулятор",
-    "isChild": false
-  },
-  {
     "id": 112,
     "title": "Holy Chick",
     "description": "В мире, где кровожадные цыплята захватили планету, трудно сохранять хладнокровие. Вы находите убежище в подозрительном трейлере, но злые клювы клюют в окна снаружи. Время на исходе. Можете ли вы найти выход из этого затруднительного положения?",
@@ -1455,19 +1442,6 @@
     "category": "htc",
     "genre": "многопользовательская",
     "isChild": true
-  },
-  {
-    "id": 115,
-    "title": "Sleep Tight",
-    "description": "Sleep Tight - это быстроразвивающаяся игра ужасов. Выживайте среди волн монстров, если сможете, обновляйте различное оружие, чтобы помочь себе. Помните, будьте внимательны, слушайте и не позволяйте им добраться до вас!",
-    "thumbnail": "images/sleep_tight/thumbnail.jpg",
-    "image1": "images/sleep_tight/1.jpg",
-    "image2": "images/sleep_tight/2.jpg",
-    "image3": "images/sleep_tight/3.jpg",
-    "video": "https://www.youtube.com/embed/H53-7fr4_5Y",
-    "category": "htc",
-    "genre": "хоррор",
-    "isChild": false
   },
   {
     "id": 116,
